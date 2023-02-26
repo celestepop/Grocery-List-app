@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Grocery List app</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Home</string>
+    <string name="second_fragment_label">Your Grocery List</string>
+    <string name="button_see_list">View Grocery List</string>
+    <string name="button_add_item">Add item</string>
+    <string name="previous">Previous</string>
+
+    <string name="welcome_message">Welcome to your Grocery List!</string>
+    <string name="total_title">TOTAL</string>
+    <string name="total">$0.00</string>
+    <string name="item_name">Item Name</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
